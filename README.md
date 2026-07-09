@@ -23,6 +23,11 @@ GOALS
 - Contribute to open- source projects
 - Secure an intership in Python, AI & ML or DevOps
 
+LEARNING PROGRESS
+- Learning Python
+- Learning Git
+- Learning Linux
+
 FEATURED PROJECTS
 # ATM MANAGEMENT SYSTEM
 A Python - based console application that simulates ATM operations such as balance enquirey, cash withdrawal, deposit, and PIN verification.
